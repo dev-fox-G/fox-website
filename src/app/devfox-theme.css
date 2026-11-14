@@ -1,0 +1,58 @@
+/* DevFox website backgrounds: backgrounds only, no content.
+   1) Import once:  @import "./devfox-website-theme.css";
+   2) Add a class to any full-width <section> / <header> / <footer>.
+   Edit only the variables below to re-color everything. */
+:root{
+  --dfx-accent:#ff7a1a;--dfx-ink:#12141a;--dfx-ink-deep:#0b0d12;
+  --dfx-light:#f4f7fc;--dfx-warm:#fff6ee;--dfx-glow:rgba(255,122,26,.3);
+  --dfx-stars:url("data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27520%27 height=%27520%27%3E%3Ccircle cx=%27332%27 cy=%27144%27 r=%271.6%27 fill=%27%23fff%27 fill-opacity=%270.4%27/%3E%3Ccircle cx=%27367%27 cy=%27496%27 r=%271.6%27 fill=%27%23fff%27 fill-opacity=%270.5%27/%3E%3Ccircle cx=%27285%27 cy=%2728%27 r=%271.3%27 fill=%27%23fff%27 fill-opacity=%270.6%27/%3E%3Ccircle cx=%27141%27 cy=%27346%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.7%27/%3E%3Ccircle cx=%2771%27 cy=%27204%27 r=%271.3%27 fill=%27%23fff%27 fill-opacity=%270.6%27/%3E%3Ccircle cx=%27208%27 cy=%27292%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.5%27/%3E%3Ccircle cx=%2720%27 cy=%27388%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.4%27/%3E%3Ccircle cx=%27107%27 cy=%27483%27 r=%271.3%27 fill=%27%23fff%27 fill-opacity=%270.3%27/%3E%3Ccircle cx=%27422%27 cy=%2750%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.5%27/%3E%3Ccircle cx=%27241%27 cy=%2778%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.3%27/%3E%3Ccircle cx=%27460%27 cy=%2716%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.6%27/%3E%3Ccircle cx=%27505%27 cy=%2798%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.4%27/%3E%3Ccircle cx=%27506%27 cy=%27115%27 r=%271.6%27 fill=%27%23fff%27 fill-opacity=%270.6%27/%3E%3Ccircle cx=%27334%27 cy=%27118%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.7%27/%3E%3Ccircle cx=%27367%27 cy=%27114%27 r=%271.3%27 fill=%27%23fff%27 fill-opacity=%270.4%27/%3E%3Ccircle cx=%27198%27 cy=%27226%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.7%27/%3E%3Ccircle cx=%27149%27 cy=%2747%27 r=%271.3%27 fill=%27%23fff%27 fill-opacity=%270.4%27/%3E%3Ccircle cx=%27322%27 cy=%27314%27 r=%271%27 fill=%27%23fff%27 fill-opacity=%270.5%27/%3E%3Cpath transform=%27translate%28376 187%29%27 d=%27M0 -5Q0 0 5 0Q0 0 0 5Q0 0 -5 0Q0 0 0 -5Z%27 fill=%27%23FF7A1A%27 fill-opacity=%270.6%27/%3E%3Cpath transform=%27translate%28433 170%29%27 d=%27M0 -8Q0 0 8 0Q0 0 0 8Q0 0 -8 0Q0 0 0 -8Z%27 fill=%27%23FF7A1A%27 fill-opacity=%270.8%27/%3E%3Cpath transform=%27translate%28108 260%29%27 d=%27M0 -8Q0 0 8 0Q0 0 0 8Q0 0 -8 0Q0 0 0 -8Z%27 fill=%27%23FF7A1A%27 fill-opacity=%270.8%27/%3E%3Cpath transform=%27translate%2843 145%29%27 d=%27M0 -5Q0 0 5 0Q0 0 0 5Q0 0 -5 0Q0 0 0 -5Z%27 fill=%27%23FF7A1A%27 fill-opacity=%270.9%27/%3E%3Cpath transform=%27translate%28197 446%29%27 d=%27M0 -8Q0 0 8 0Q0 0 0 8Q0 0 -8 0Q0 0 0 -8Z%27 fill=%27%23FF7A1A%27 fill-opacity=%270.5%27/%3E%3Cpath transform=%27translate%28417 228%29%27 d=%27M0 -7Q0 0 7 0Q0 0 0 7Q0 0 -7 0Q0 0 0 -7Z%27 fill=%27%23FF7A1A%27 fill-opacity=%270.7%27/%3E%3Cpath transform=%27translate%28444 18%29%27 d=%27M0 -8Q0 0 8 0Q0 0 0 8Q0 0 -8 0Q0 0 0 -8Z%27 fill=%27%23FF7A1A%27 fill-opacity=%270.5%27/%3E%3Cpath transform=%27translate%28106 333%29%27 d=%27M0 -4Q0 0 4 0Q0 0 0 4Q0 0 -4 0Q0 0 0 -4Z%27 fill=%27%23fff%27 fill-opacity=%270.6%27/%3E%3Cpath transform=%27translate%28139 489%29%27 d=%27M0 -5Q0 0 5 0Q0 0 0 5Q0 0 -5 0Q0 0 0 -5Z%27 fill=%27%23fff%27 fill-opacity=%270.7%27/%3E%3Cpath transform=%27translate%28195 471%29%27 d=%27M0 -6Q0 0 6 0Q0 0 0 6Q0 0 -6 0Q0 0 0 -6Z%27 fill=%27%23fff%27 fill-opacity=%270.6%27/%3E%3Cpath transform=%27translate%28250 69%29%27 d=%27M0 -6Q0 0 6 0Q0 0 0 6Q0 0 -6 0Q0 0 0 -6Z%27 fill=%27%23fff%27 fill-opacity=%270.8%27/%3E%3Cpath transform=%27translate%28422 202%29%27 d=%27M0 -5Q0 0 5 0Q0 0 0 5Q0 0 -5 0Q0 0 0 -5Z%27 fill=%27%23fff%27 fill-opacity=%270.5%27/%3E%3C/svg%3E");
+}
+.dfx-hero,.dfx-section-dark,.dfx-section-light,.dfx-section-white,.dfx-section-warm,.dfx-stats,.dfx-cta,.dfx-contact,.dfx-footer{position:relative;isolation:isolate;overflow:hidden}
+.dfx-hero::before,.dfx-section-dark::before,.dfx-section-light::before,.dfx-section-white::before,.dfx-section-warm::before,.dfx-stats::before,.dfx-cta::before,.dfx-contact::before,.dfx-footer::before,.dfx-hero::after,.dfx-cta::after,.dfx-contact::after{content:"";position:absolute;pointer-events:none}
+
+/* Navbar (sticky/fixed is up to you) */
+.dfx-nav{background:rgba(18,20,26,.72);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);border-bottom:1px solid rgba(255,255,255,.08)}
+
+/* 1. Hero: dark, big glow, outline squares, stars */
+.dfx-hero{background-color:var(--dfx-ink);background-image:radial-gradient(circle 56rem at 85% 50%,var(--dfx-glow),transparent 65%),radial-gradient(circle 30rem at 0% 100%,rgba(255,122,26,.1),transparent 70%)}
+.dfx-hero::before{inset:0;z-index:-2;background-image:var(--dfx-stars),radial-gradient(rgba(255,255,255,.14) 1px,transparent 1.5px);background-size:520px 520px,28px 28px;-webkit-mask-image:radial-gradient(circle 70rem at 85% 50%,#000,transparent 80%);mask-image:radial-gradient(circle 70rem at 85% 50%,#000,transparent 80%)}
+.dfx-hero::after{z-index:-1;right:-12rem;top:50%;width:44rem;aspect-ratio:1;transform:translateY(-50%) rotate(45deg);border:1px solid rgba(255,122,26,.45);border-radius:4rem;outline:1px solid rgba(255,122,26,.25);outline-offset:4rem}
+@media(max-width:768px){.dfx-hero::after{right:-16rem;width:28rem;opacity:.6}}
+
+/* 2. Stats strip: dark, fine diagonal lines, glowing top edge */
+.dfx-stats{background-color:var(--dfx-ink);background-image:repeating-linear-gradient(135deg,rgba(255,255,255,.035) 0 1px,transparent 1px 16px),radial-gradient(circle 24rem at 50% 0%,rgba(255,122,26,.16),transparent 70%)}
+.dfx-stats::before{inset:0 0 auto 0;height:1px;z-index:-1;background:linear-gradient(90deg,transparent,var(--dfx-accent),transparent)}
+
+/* 3. Light section (services, portfolio) */
+.dfx-section-light{background-color:var(--dfx-light);background-image:radial-gradient(circle 30rem at 100% 0%,rgba(255,122,26,.12),transparent 70%)}
+.dfx-section-light::before{inset:0;z-index:-1;background-image:radial-gradient(rgba(18,20,26,.1) 1px,transparent 1.5px);background-size:28px 28px;-webkit-mask-image:linear-gradient(#000,transparent 85%);mask-image:linear-gradient(#000,transparent 85%)}
+
+/* 4. Dark section (about, why us) */
+.dfx-section-dark{background-color:var(--dfx-ink);background-image:radial-gradient(circle 32rem at 0% 0%,rgba(255,122,26,.12),transparent 70%)}
+.dfx-section-dark::before{inset:0;z-index:-1;filter:opacity(.6);background-image:var(--dfx-stars),radial-gradient(rgba(255,255,255,.1) 1px,transparent 1.5px);background-size:520px 520px,28px 28px;-webkit-mask-image:linear-gradient(#000,transparent 85%);mask-image:linear-gradient(#000,transparent 85%)}
+
+/* 5. White section (process, FAQ): fine grid lines */
+.dfx-section-white{background-color:#fff;background-image:radial-gradient(circle 28rem at 0% 100%,rgba(255,122,26,.08),transparent 70%)}
+.dfx-section-white::before{inset:0;z-index:-1;background-image:linear-gradient(rgba(18,20,26,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(18,20,26,.05) 1px,transparent 1px);background-size:56px 56px;-webkit-mask-image:radial-gradient(ellipse at 50% 0%,#000,transparent 70%);mask-image:radial-gradient(ellipse at 50% 0%,#000,transparent 70%)}
+
+/* 6. Warm section (testimonials, blog) */
+.dfx-section-warm{background-color:var(--dfx-warm);background-image:radial-gradient(circle 26rem at 0% 0%,rgba(255,122,26,.14),transparent 70%),radial-gradient(circle 26rem at 100% 100%,rgba(255,122,26,.1),transparent 70%)}
+.dfx-section-warm::before{inset:0;z-index:-1;background-image:radial-gradient(rgba(255,122,26,.22) 1px,transparent 1.5px);background-size:24px 24px;-webkit-mask-image:linear-gradient(#000,transparent 80%);mask-image:linear-gradient(#000,transparent 80%)}
+
+/* 7. CTA band: orange (use dark text) */
+.dfx-cta{background-color:var(--dfx-accent)}
+.dfx-cta::before{inset:0;z-index:-2;background-image:radial-gradient(rgba(18,20,26,.16) 1px,transparent 1.5px);background-size:24px 24px;-webkit-mask-image:linear-gradient(90deg,transparent 30%,#000);mask-image:linear-gradient(90deg,transparent 30%,#000)}
+.dfx-cta::after{z-index:-1;right:-6rem;top:50%;width:20rem;aspect-ratio:1;transform:translateY(-50%) rotate(45deg);border:1px solid rgba(18,20,26,.35);border-radius:2rem;outline:1px solid rgba(18,20,26,.2);outline-offset:2rem}
+
+/* 8. Contact: dark, glow and square in the bottom-left */
+.dfx-contact{background-color:var(--dfx-ink);background-image:radial-gradient(circle 40rem at 12% 100%,var(--dfx-glow),transparent 65%)}
+.dfx-contact::before{inset:0;z-index:-2;background-image:var(--dfx-stars),radial-gradient(rgba(255,255,255,.12) 1px,transparent 1.5px);background-size:520px 520px,28px 28px;-webkit-mask-image:radial-gradient(circle 50rem at 12% 100%,#000,transparent 80%);mask-image:radial-gradient(circle 50rem at 12% 100%,#000,transparent 80%)}
+.dfx-contact::after{z-index:-1;left:-9rem;bottom:-12rem;width:26rem;aspect-ratio:1;transform:rotate(45deg);border:1px solid rgba(255,122,26,.4);border-radius:3rem;outline:1px solid rgba(255,122,26,.22);outline-offset:3rem}
+
+/* 9. Footer: deepest dark, glowing top edge */
+.dfx-footer{background-color:var(--dfx-ink-deep);background-image:radial-gradient(circle 30rem at 50% 0%,rgba(255,122,26,.08),transparent 70%)}
+.dfx-footer::before{inset:0 0 auto 0;height:1px;z-index:-1;background:linear-gradient(90deg,transparent,var(--dfx-accent),transparent)}
+
+/* Soft star twinkle (off when the visitor prefers reduced motion) */
+@media(prefers-reduced-motion:no-preference){.dfx-hero::before,.dfx-section-dark::before,.dfx-contact::before{animation:dfx-twinkle 6s ease-in-out infinite alternate}}
+@keyframes dfx-twinkle{from{opacity:.65}to{opacity:1}}
