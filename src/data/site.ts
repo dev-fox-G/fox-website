@@ -16,9 +16,9 @@ export type SocialLinks = {
 
 export const site = {
   name: "DevFox",
-  email: "devfox@gmail.com",
+  email: "devfoxglobal@gmail.com",
   phoneDisplay: "+92 316 7519007", // TODO: replace with your real number
-  phoneHref: "tel:+923000000000", // TODO: replace with your real number
+  phoneHref: "tel:+923167519007", // TODO: replace with your real number
   location: "Punjab, Pakistan",
   social: {
     linkedin: "https://www.linkedin.com/company/YOUR-COMPANY-PAGE",
