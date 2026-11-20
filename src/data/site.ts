@@ -191,7 +191,7 @@ export const team: TeamMember[] = [
     focus: { x: 0.509, y: 0.259, width: 0.343 },
     alt: "Izrar Shahzad, Co-founder and COO of DevFox",
     social: {
-      linkedin: "https://www.linkedin.com/in/IZRAR-PROFILE",
+      linkedin: "https://www.linkedin.com/in/izrar-shahzad-a47533405/",
       whatsapp: "https://wa.me/923419171351",
       instagram: "https://www.instagram.com/IZRAR-HANDLE",
     },
