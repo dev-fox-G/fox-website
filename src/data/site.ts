@@ -22,7 +22,7 @@ export const site = {
   location: "Punjab, Pakistan",
   social: {
     linkedin: "https://www.linkedin.com/company/YOUR-COMPANY-PAGE",
-    whatsapp: "https://wa.me/92 316 7519007", // digits only, international format
+    whatsapp: "https://wa.me/923167519007", // digits only, international format
     instagram: "https://www.instagram.com/YOUR-COMPANY-HANDLE",
   } satisfies SocialLinks,
 };
