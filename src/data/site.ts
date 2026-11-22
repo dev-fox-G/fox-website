@@ -92,8 +92,8 @@ export const projects: {
 }[] = [
   {
     sector: "Finance",
-    title: "NexaBank mobile app",
-    text: "Digital banking with biometric sign-in, real-time transactions and spending insights.",
+    title: "POS web app",
+    text: "Digital Khata,Inventory management system,Billings and Sales.",
     stack: "React Native, Node.js, PostgreSQL, AWS",
     tone: "blue",
     url: "https://YOUR-NEXABANK-WEBSITE.com",
@@ -205,7 +205,10 @@ export const serviceOptions = [
   "Cloud and DevOps",
   "AI and automation",
   "Custom software",
+   "Custom Website Building",
+   "API Integration",
   "Something else",
+
 ];
 
 export const budgetOptions = ["Under $5k", "$5k to $15k", "$15k to $50k", "$50k and above", "Not sure yet"];
